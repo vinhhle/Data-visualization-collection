@@ -1,0 +1,6 @@
+name: "Data Visualization"
+navbar:
+  title: 
+  left:
+    - text: "Data Visualization" 
+      href: index.html
